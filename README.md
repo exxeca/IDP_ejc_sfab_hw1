@@ -5,4 +5,8 @@ This repo is for our Home Work 1 in MMED 1054
 
 This is our first project made after learning Github. This project shows what we learn in this program. Wishing you a great day if you read this 🦾.
 
-s
+## Ezekiel Celis
+
+![DescribeThis](images/cloth.jpg)
+
+#### This photo is a clothing line that i made a few months ago. The colors, patterns, and style matched from what idea i got, and its really cool that i blends together. I just really think that this design is cool!
