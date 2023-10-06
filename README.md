@@ -75,6 +75,8 @@ __Hobbies__
 
 ## Saif Abusaad
 
+### Hi my name is saif, I like sports like tennis, MMA and basketball but i mostly enjoy art because its my passion, I also travel alot. Im born in Amman the capital of jordan. 
+
 ![DescribeThis](images/jerusalem.jpg)
 
 #### This is a photo of the place where my family is orginated from. I like this photo because it gives me hope that I might vist this place in the future
