@@ -28,7 +28,7 @@ October 4, 2023
 
 ## Credits 
 
-Ezekiel John Celis, 
+Ezekiel John Celis, Saif Abusaad
 
 ## License 
 
@@ -47,7 +47,8 @@ MIT License
 * *Dark*
 * *Mr. Robot*
 * *Shutter Island*
-* *Paper Towns*
+* *Fight Club*
+
 
 __Hobbies__
 
@@ -68,3 +69,22 @@ __Hobbies__
 ![DescribeThis](images/jerusalem.jpg)
 
 #### This is a photo of the place where my family is orginated from. I like this photo because it gives me hope that I might vist this place in the future
+
+**My top 5 Favorite Movies**
+
+* *Wolf of The Wall Street*
+* *Kingdom of Heaven*
+* *Scar face*
+* *Focus*
+* *American Psycho*
+
+__Hobbies__
+
+1. Sports
+2. Cooking
+3. Drawing 
+4. Playing Chess
+
+***My Favorite Website***
+
+[Spotify](www.spotify.com)
