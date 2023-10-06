@@ -69,6 +69,7 @@ __Hobbies__
 **MY Favorite Website**
 
 [NETFLIX](www.netflix.com)
+https://www.netflix.com/ca/
 
 ##
 ##
