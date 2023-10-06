@@ -35,7 +35,16 @@ Ezekiel John Celis, Saif Abusaad
 MIT License
 
 
+---
+
+
+# Group Information
+
 ## Ezekiel John Celis
+
+#### Hi! I'm Ezekiel, but you can call me Kiel or Zek. I'm a chill dude, friendly, and approachable, and I really like sisig, which is one of the dishes in my country. I was born in Iloilo City, known as the City of Love in the Philippines.
+
+##
 
 ![DescribeThis](images/cloth.jpg)
 
